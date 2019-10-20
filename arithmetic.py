@@ -11,7 +11,7 @@ x = int(input("x: "))
 y = int(("y: "))
 
 # Perform arithmetic
-print(f"{x} plus {x} is {x + y}")
+print(f"{x} plus {y} is {x + y}")
 print(f"{x} minus {y} is {x - y}")
 print(f"{x} times {y} is {x * y}")
 print(f"{x} to the power of {y} is {x ** y}")
